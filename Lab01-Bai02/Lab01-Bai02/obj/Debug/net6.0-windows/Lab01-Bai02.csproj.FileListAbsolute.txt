@@ -1,0 +1,17 @@
+D:\NT106\Lab01-Bai02\Lab01-Bai02\bin\Debug\net6.0-windows\Lab01-Bai02.exe
+D:\NT106\Lab01-Bai02\Lab01-Bai02\bin\Debug\net6.0-windows\Lab01-Bai02.deps.json
+D:\NT106\Lab01-Bai02\Lab01-Bai02\bin\Debug\net6.0-windows\Lab01-Bai02.runtimeconfig.json
+D:\NT106\Lab01-Bai02\Lab01-Bai02\bin\Debug\net6.0-windows\Lab01-Bai02.dll
+D:\NT106\Lab01-Bai02\Lab01-Bai02\obj\Debug\net6.0-windows\Lab01-Bai02.csproj.AssemblyReference.cache
+D:\NT106\Lab01-Bai02\Lab01-Bai02\obj\Debug\net6.0-windows\Lab01_Bai02.Form1.resources
+D:\NT106\Lab01-Bai02\Lab01-Bai02\obj\Debug\net6.0-windows\Lab01-Bai02.csproj.GenerateResource.cache
+D:\NT106\Lab01-Bai02\Lab01-Bai02\obj\Debug\net6.0-windows\Lab01-Bai02.GeneratedMSBuildEditorConfig.editorconfig
+D:\NT106\Lab01-Bai02\Lab01-Bai02\obj\Debug\net6.0-windows\Lab01-Bai02.AssemblyInfoInputs.cache
+D:\NT106\Lab01-Bai02\Lab01-Bai02\obj\Debug\net6.0-windows\Lab01-Bai02.AssemblyInfo.cs
+D:\NT106\Lab01-Bai02\Lab01-Bai02\obj\Debug\net6.0-windows\Lab01-Bai02.csproj.CoreCompileInputs.cache
+D:\NT106\Lab01-Bai02\Lab01-Bai02\obj\Debug\net6.0-windows\Lab01-Bai02.dll
+D:\NT106\Lab01-Bai02\Lab01-Bai02\obj\Debug\net6.0-windows\refint\Lab01-Bai02.dll
+D:\NT106\Lab01-Bai02\Lab01-Bai02\obj\Debug\net6.0-windows\Lab01-Bai02.pdb
+D:\NT106\Lab01-Bai02\Lab01-Bai02\obj\Debug\net6.0-windows\Lab01-Bai02.genruntimeconfig.cache
+D:\NT106\Lab01-Bai02\Lab01-Bai02\obj\Debug\net6.0-windows\ref\Lab01-Bai02.dll
+D:\NT106\Lab01-Bai02\Lab01-Bai02\bin\Debug\net6.0-windows\Lab01-Bai02.pdb
