@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NT106\\Lab01-Bai03\\Lab01-Bai03\\Lab01-Bai03.csproj": {}
+    "D:\\NT106\\Lab1\\Lab01-Bai03\\Lab01-Bai03\\Lab01-Bai03.csproj": {}
   },
   "projects": {
-    "D:\\NT106\\Lab01-Bai03\\Lab01-Bai03\\Lab01-Bai03.csproj": {
+    "D:\\NT106\\Lab1\\Lab01-Bai03\\Lab01-Bai03\\Lab01-Bai03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NT106\\Lab01-Bai03\\Lab01-Bai03\\Lab01-Bai03.csproj",
+        "projectUniqueName": "D:\\NT106\\Lab1\\Lab01-Bai03\\Lab01-Bai03\\Lab01-Bai03.csproj",
         "projectName": "Lab01-Bai03",
-        "projectPath": "D:\\NT106\\Lab01-Bai03\\Lab01-Bai03\\Lab01-Bai03.csproj",
+        "projectPath": "D:\\NT106\\Lab1\\Lab01-Bai03\\Lab01-Bai03\\Lab01-Bai03.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\NT106\\Lab01-Bai03\\Lab01-Bai03\\obj\\",
+        "outputPath": "D:\\NT106\\Lab1\\Lab01-Bai03\\Lab01-Bai03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

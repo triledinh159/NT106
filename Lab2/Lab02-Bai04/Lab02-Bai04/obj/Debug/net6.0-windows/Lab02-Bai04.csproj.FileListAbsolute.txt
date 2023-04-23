@@ -1,0 +1,17 @@
+D:\NT106\Lab2\Lab02-Bai04\Lab02-Bai04\bin\Debug\net6.0-windows\Lab02-Bai04.exe
+D:\NT106\Lab2\Lab02-Bai04\Lab02-Bai04\bin\Debug\net6.0-windows\Lab02-Bai04.deps.json
+D:\NT106\Lab2\Lab02-Bai04\Lab02-Bai04\bin\Debug\net6.0-windows\Lab02-Bai04.runtimeconfig.json
+D:\NT106\Lab2\Lab02-Bai04\Lab02-Bai04\bin\Debug\net6.0-windows\Lab02-Bai04.dll
+D:\NT106\Lab2\Lab02-Bai04\Lab02-Bai04\bin\Debug\net6.0-windows\Lab02-Bai04.pdb
+D:\NT106\Lab2\Lab02-Bai04\Lab02-Bai04\obj\Debug\net6.0-windows\Lab02-Bai04.csproj.AssemblyReference.cache
+D:\NT106\Lab2\Lab02-Bai04\Lab02-Bai04\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\NT106\Lab2\Lab02-Bai04\Lab02-Bai04\obj\Debug\net6.0-windows\Lab02-Bai04.csproj.GenerateResource.cache
+D:\NT106\Lab2\Lab02-Bai04\Lab02-Bai04\obj\Debug\net6.0-windows\Lab02-Bai04.GeneratedMSBuildEditorConfig.editorconfig
+D:\NT106\Lab2\Lab02-Bai04\Lab02-Bai04\obj\Debug\net6.0-windows\Lab02-Bai04.AssemblyInfoInputs.cache
+D:\NT106\Lab2\Lab02-Bai04\Lab02-Bai04\obj\Debug\net6.0-windows\Lab02-Bai04.AssemblyInfo.cs
+D:\NT106\Lab2\Lab02-Bai04\Lab02-Bai04\obj\Debug\net6.0-windows\Lab02-Bai04.csproj.CoreCompileInputs.cache
+D:\NT106\Lab2\Lab02-Bai04\Lab02-Bai04\obj\Debug\net6.0-windows\Lab02-Bai04.dll
+D:\NT106\Lab2\Lab02-Bai04\Lab02-Bai04\obj\Debug\net6.0-windows\refint\Lab02-Bai04.dll
+D:\NT106\Lab2\Lab02-Bai04\Lab02-Bai04\obj\Debug\net6.0-windows\Lab02-Bai04.pdb
+D:\NT106\Lab2\Lab02-Bai04\Lab02-Bai04\obj\Debug\net6.0-windows\Lab02-Bai04.genruntimeconfig.cache
+D:\NT106\Lab2\Lab02-Bai04\Lab02-Bai04\obj\Debug\net6.0-windows\ref\Lab02-Bai04.dll

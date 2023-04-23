@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ODUoQrY3s6Lltn5k9BtMnt8xVPmBCdbVJ1X0Q3p8ET2Zw1dMDRJYI88zk2GxDBAQLweImHNo7K9q4aiYamQ59w==",
+  "dgSpecHash": "ygDFy1FQINBtOuEaK2OeP97XlSjhItiz67vkEodmSMC1I7AUosnEWLm0sNPoMFTgzsBuw0AmbN7L6Vp8lhSyNQ==",
   "success": true,
-  "projectFilePath": "D:\\NT106\\Lab01-Bai01\\Bai01\\Lab01-Bai01.csproj",
+  "projectFilePath": "D:\\NT106\\Lab1\\Lab01-Bai01\\Bai01\\Lab01-Bai01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
