@@ -42,7 +42,7 @@
             btn_read.Name = "btn_read";
             btn_read.Size = new Size(296, 60);
             btn_read.TabIndex = 0;
-            btn_read.Text = "ĐỌC FILE";
+            btn_read.Text = "ĐỌC FILE (input)";
             btn_read.UseVisualStyleBackColor = true;
             btn_read.Click += btn_read_Click;
             // 
@@ -62,7 +62,7 @@
             btn_write.Name = "btn_write";
             btn_write.Size = new Size(296, 60);
             btn_write.TabIndex = 2;
-            btn_write.Text = "GHI FILE";
+            btn_write.Text = "GHI FILE (input)";
             btn_write.UseVisualStyleBackColor = true;
             btn_write.Click += btn_write_Click;
             // 
@@ -73,7 +73,7 @@
             btn_dtb.Name = "btn_dtb";
             btn_dtb.Size = new Size(296, 60);
             btn_dtb.TabIndex = 3;
-            btn_dtb.Text = "GHI FILE ĐTB";
+            btn_dtb.Text = "GHI FILE ĐTB (output)";
             btn_dtb.UseVisualStyleBackColor = true;
             btn_dtb.Click += btn_dtb_Click;
             // 
@@ -84,7 +84,7 @@
             btn_readdtb.Name = "btn_readdtb";
             btn_readdtb.Size = new Size(296, 60);
             btn_readdtb.TabIndex = 4;
-            btn_readdtb.Text = "ĐỌC FILE ĐTB";
+            btn_readdtb.Text = "ĐỌC FILE ĐTB (output)";
             btn_readdtb.UseVisualStyleBackColor = true;
             btn_readdtb.Click += btn_readdtb_Click;
             // 
