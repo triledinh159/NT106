@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yeWqZivf92tB+Up2cMaFjEOJN9iuQZy9i4UnwZfgMkNdI6lTmP6fO+V2OUTV1kszyPdpYwFCSdpmQ+97qbA3Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\Desktop\\Trumpiter-max Hack-Wiki main code-Winform_Lab03\\bai3\\Lab03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
