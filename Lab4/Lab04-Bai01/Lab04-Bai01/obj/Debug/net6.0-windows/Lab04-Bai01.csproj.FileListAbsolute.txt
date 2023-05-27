@@ -1,0 +1,17 @@
+D:\NT106\NT106\Lab4\Lab04-Bai01\Lab04-Bai01\obj\Debug\net6.0-windows\Lab04-Bai01.csproj.AssemblyReference.cache
+D:\NT106\NT106\Lab4\Lab04-Bai01\Lab04-Bai01\obj\Debug\net6.0-windows\Lab04-Bai01.csproj.GenerateResource.cache
+D:\NT106\NT106\Lab4\Lab04-Bai01\Lab04-Bai01\obj\Debug\net6.0-windows\Lab04-Bai01.GeneratedMSBuildEditorConfig.editorconfig
+D:\NT106\NT106\Lab4\Lab04-Bai01\Lab04-Bai01\obj\Debug\net6.0-windows\Lab04-Bai01.AssemblyInfoInputs.cache
+D:\NT106\NT106\Lab4\Lab04-Bai01\Lab04-Bai01\obj\Debug\net6.0-windows\Lab04-Bai01.AssemblyInfo.cs
+D:\NT106\NT106\Lab4\Lab04-Bai01\Lab04-Bai01\obj\Debug\net6.0-windows\Lab04-Bai01.csproj.CoreCompileInputs.cache
+D:\NT106\NT106\Lab4\Lab04-Bai01\Lab04-Bai01\bin\Debug\net6.0-windows\Lab04-Bai01.exe
+D:\NT106\NT106\Lab4\Lab04-Bai01\Lab04-Bai01\bin\Debug\net6.0-windows\Lab04-Bai01.deps.json
+D:\NT106\NT106\Lab4\Lab04-Bai01\Lab04-Bai01\bin\Debug\net6.0-windows\Lab04-Bai01.runtimeconfig.json
+D:\NT106\NT106\Lab4\Lab04-Bai01\Lab04-Bai01\bin\Debug\net6.0-windows\Lab04-Bai01.dll
+D:\NT106\NT106\Lab4\Lab04-Bai01\Lab04-Bai01\bin\Debug\net6.0-windows\Lab04-Bai01.pdb
+D:\NT106\NT106\Lab4\Lab04-Bai01\Lab04-Bai01\obj\Debug\net6.0-windows\Lab04_Bai01.Form1.resources
+D:\NT106\NT106\Lab4\Lab04-Bai01\Lab04-Bai01\obj\Debug\net6.0-windows\Lab04-Bai01.dll
+D:\NT106\NT106\Lab4\Lab04-Bai01\Lab04-Bai01\obj\Debug\net6.0-windows\refint\Lab04-Bai01.dll
+D:\NT106\NT106\Lab4\Lab04-Bai01\Lab04-Bai01\obj\Debug\net6.0-windows\Lab04-Bai01.pdb
+D:\NT106\NT106\Lab4\Lab04-Bai01\Lab04-Bai01\obj\Debug\net6.0-windows\Lab04-Bai01.genruntimeconfig.cache
+D:\NT106\NT106\Lab4\Lab04-Bai01\Lab04-Bai01\obj\Debug\net6.0-windows\ref\Lab04-Bai01.dll
